@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1448-maximum-69-number](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1448-maximum-69-number) |
 | [1961-maximum-ice-cream-bars](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1961-maximum-ice-cream-bars) |
 ## Array
@@ -18,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1961-maximum-ice-cream-bars](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1961-maximum-ice-cream-bars) |
+## String
+|  |
+| ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+## Stack
+|  |
+| ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
