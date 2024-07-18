@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0002-add-two-numbers) |
+| [0396-rotate-function](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0396-rotate-function) |
 | [1448-maximum-69-number](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1448-maximum-69-number) |
 ## Greedy
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0130-surrounded-regions) |
+| [0396-rotate-function](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0396-rotate-function) |
 | [1207-delete-nodes-and-return-forest](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1207-delete-nodes-and-return-forest) |
 | [1961-maximum-ice-cream-bars](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1961-maximum-ice-cream-bars) |
 ## Sorting
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0396-rotate-function](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0396-rotate-function) |
 ## Linked List
 |  |
 | ------- |
