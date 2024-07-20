@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0130-surrounded-regions) |
+| [0289-game-of-life](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0289-game-of-life) |
 | [0396-rotate-function](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0396-rotate-function) |
 | [1207-delete-nodes-and-return-forest](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1207-delete-nodes-and-return-forest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -107,9 +108,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0130-surrounded-regions) |
+| [0289-game-of-life](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0289-game-of-life) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Hash Table
 |  |
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1207-delete-nodes-and-return-forest) |
+## Simulation
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
