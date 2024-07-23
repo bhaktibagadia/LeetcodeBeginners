@@ -21,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0396-rotate-function) |
 | [1207-delete-nodes-and-return-forest](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1207-delete-nodes-and-return-forest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1961-maximum-ice-cream-bars](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1961-maximum-ice-cream-bars) |
 | [2502-sort-the-people](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
 | ------- |
+| [1741-sort-array-by-increasing-frequency](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1961-maximum-ice-cream-bars](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1961-maximum-ice-cream-bars) |
 | [2502-sort-the-people](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/2502-sort-the-people) |
 ## String
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0889-buddy-strings](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0889-buddy-strings) |
 | [1207-delete-nodes-and-return-forest](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1207-delete-nodes-and-return-forest) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/2502-sort-the-people) |
 ## Simulation
 |  |
