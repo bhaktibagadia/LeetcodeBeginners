@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0002-add-two-numbers) |
 | [0396-rotate-function](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0396-rotate-function) |
+| [0445-add-two-numbers-ii](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0445-add-two-numbers-ii) |
 | [1448-maximum-69-number](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1448-maximum-69-number) |
 ## Greedy
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0145-binary-tree-postorder-traversal) |
+| [0445-add-two-numbers-ii](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0445-add-two-numbers-ii) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Tree
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0002-add-two-numbers) |
+| [0445-add-two-numbers-ii](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
 |  |
 | ------- |
