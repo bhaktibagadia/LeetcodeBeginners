@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0130-surrounded-regions) |
 | [0289-game-of-life](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0289-game-of-life) |
 | [0396-rotate-function](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0396-rotate-function) |
+| [0494-target-sum](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0494-target-sum) |
 | [0948-sort-an-array](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0948-sort-an-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1207-delete-nodes-and-return-forest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0396-rotate-function](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0396-rotate-function) |
+| [0494-target-sum](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0494-target-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0948-sort-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
