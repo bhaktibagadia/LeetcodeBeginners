@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0039-combination-sum) |
 | [0130-surrounded-regions](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0139-word-break) |
 | [0289-game-of-life](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0289-game-of-life) |
 | [0396-rotate-function](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0396-rotate-function) |
 | [0494-target-sum](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0494-target-sum) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0139-word-break](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0139-word-break) |
 | [0889-buddy-strings](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0889-buddy-strings) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2502-sort-the-people](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/2502-sort-the-people) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0139-word-break) |
 | [0396-rotate-function](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0396-rotate-function) |
 | [0494-target-sum](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0494-target-sum) |
 ## Linked List
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0139-word-break) |
 | [0889-buddy-strings](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0889-buddy-strings) |
 | [1207-delete-nodes-and-return-forest](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1207-delete-nodes-and-return-forest) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -167,4 +171,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0039-combination-sum) |
 | [0494-target-sum](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0494-target-sum) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
