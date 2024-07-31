@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0396-rotate-function) |
 | [0445-add-two-numbers-ii](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0445-add-two-numbers-ii) |
 | [1448-maximum-69-number](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1448-maximum-69-number) |
+| [2748-calculate-delayed-arrival-time](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/2748-calculate-delayed-arrival-time) |
 ## Greedy
 |  |
 | ------- |
