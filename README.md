@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1448-maximum-69-number) |
 | [1961-maximum-ice-cream-bars](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1961-maximum-ice-cream-bars) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/2049-eliminate-maximum-number-of-monsters) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Array
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-maximum-ice-cream-bars](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1961-maximum-ice-cream-bars) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2502-sort-the-people](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/2502-sort-the-people) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/2502-sort-the-people) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
 | ------- |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/2502-sort-the-people) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -182,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0948-sort-an-array](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0948-sort-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Backtracking
 |  |
 | ------- |
