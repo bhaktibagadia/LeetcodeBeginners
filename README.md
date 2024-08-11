@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0040-combination-sum-ii) |
 | [0130-surrounded-regions](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0139-word-break) |
 | [0289-game-of-life](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0289-game-of-life) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0040-combination-sum-ii) |
 | [0494-target-sum](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0494-target-sum) |
 ## Trie
 |  |
