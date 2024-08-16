@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1448-maximum-69-number](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1448-maximum-69-number) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0289-game-of-life) |
 | [0396-rotate-function](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0396-rotate-function) |
 | [0494-target-sum](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0494-target-sum) |
+| [0624-maximum-distance-in-arrays](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0948-sort-an-array) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1171-shortest-path-in-binary-matrix) |
