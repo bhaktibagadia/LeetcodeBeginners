@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0139-word-break) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0075-sort-colors) |
 | [0948-sort-an-array](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0948-sort-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0202-happy-number) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
