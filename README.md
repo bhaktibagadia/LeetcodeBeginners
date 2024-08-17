@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0258-add-digits) |
 | [0396-rotate-function](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0396-rotate-function) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0073-set-matrix-zeroes) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0130-surrounded-regions) |
