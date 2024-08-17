@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0139-word-break) |
 | [0289-game-of-life](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0289-game-of-life) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0063-unique-paths-ii) |
 | [0087-scramble-string](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0087-scramble-string) |
 | [0118-pascals-triangle](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0139-word-break) |
 | [0396-rotate-function](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0396-rotate-function) |
