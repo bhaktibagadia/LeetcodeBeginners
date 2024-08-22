@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0455-assign-cookies) |
 | [0624-maximum-distance-in-arrays](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0289-game-of-life) |
 | [0396-rotate-function](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0396-rotate-function) |
+| [0455-assign-cookies](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0494-target-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0890-lemonade-change) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0229-majority-element-ii) |
+| [0455-assign-cookies](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0455-assign-cookies) |
 | [0948-sort-an-array](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0948-sort-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0908-middle-of-the-linked-list) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
