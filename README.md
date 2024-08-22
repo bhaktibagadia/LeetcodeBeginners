@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0289-game-of-life) |
+| [0322-coin-change](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0396-rotate-function) |
 | [0455-assign-cookies](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0494-target-sum) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0130-surrounded-regions) |
+| [0322-coin-change](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0322-coin-change) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Dynamic Programming
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0396-rotate-function) |
 | [0494-target-sum](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0494-target-sum) |
 | [1511-count-number-of-teams](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1511-count-number-of-teams) |
