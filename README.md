@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0455-assign-cookies) |
 | [0624-maximum-distance-in-arrays](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0890-lemonade-change) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0074-search-a-2d-matrix) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0063-unique-paths-ii) |
 | [0087-scramble-string](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0087-scramble-string) |
