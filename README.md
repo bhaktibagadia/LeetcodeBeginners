@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0062-unique-paths) |
+| [0172-factorial-trailing-zeroes](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0258-add-digits) |
 | [0396-rotate-function](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0396-rotate-function) |
