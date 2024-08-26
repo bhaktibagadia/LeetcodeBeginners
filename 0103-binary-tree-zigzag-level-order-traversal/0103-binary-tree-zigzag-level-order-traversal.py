@@ -7,26 +7,27 @@
 class Solution:
     def zigzagLevelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
         ans = []
-        zigzag = 1
+        flag = 1
         if not root:
             return ans
-        q = [root]
+        q=[]
+        q.append(root)
         ans.append([root.val])
         while q:
             level = []
             size = len(q)
-            for i in range(size):
+            for _ in range(size):
                 node = q.pop(0)
                 if node.left:
-                    level.append(node.left.val)
                     q.append(node.left)
+                    level.append(node.left.val)
                 if node.right:
-                    level.append(node.right.val)
                     q.append(node.right)
-            if zigzag:
-                ans.append(level[::-1])
-                zigzag = 0
+                    level.append(node.right.val)
+            if flag:        
+                level.reverse()
+                flag = 0
             else:
-                ans.append(level)
-                zigzag = 1    
-        return ans[:-1]                            
+                flag = 1
+            ans.append(level)
+        return ans[:-1]           
