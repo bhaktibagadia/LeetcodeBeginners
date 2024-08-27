@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0396-rotate-function) |
 | [0445-add-two-numbers-ii](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0445-add-two-numbers-ii) |
 | [1448-maximum-69-number](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1448-maximum-69-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2748-calculate-delayed-arrival-time](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/2748-calculate-delayed-arrival-time) |
 ## Greedy
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1961-maximum-ice-cream-bars](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1961-maximum-ice-cream-bars) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0234-palindrome-linked-list) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Union Find
 |  |
 | ------- |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0289-game-of-life) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -356,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0062-unique-paths) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
