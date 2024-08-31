@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0049-group-anagrams) |
 | [0087-scramble-string](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0087-scramble-string) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0055-jump-game) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0075-sort-colors) |
