@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1961-maximum-ice-cream-bars](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1961-maximum-ice-cream-bars) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/2502-sort-the-people) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0289-game-of-life) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0287-find-the-duplicate-number) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -367,4 +370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 <!---LeetCode Topics End-->
