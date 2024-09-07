@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0764-n-ary-tree-level-order-traversal](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1207-delete-nodes-and-return-forest) |
+| [1484-linked-list-in-binary-tree](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0543-diameter-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1207-delete-nodes-and-return-forest) |
+| [1484-linked-list-in-binary-tree](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0543-diameter-of-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1207-delete-nodes-and-return-forest) |
+| [1484-linked-list-in-binary-tree](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0322-coin-change) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1484-linked-list-in-binary-tree](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1484-linked-list-in-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -213,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0445-add-two-numbers-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0908-middle-of-the-linked-list) |
+| [1484-linked-list-in-binary-tree](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
