@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0087-scramble-string) |
 | [0139-word-break](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0139-word-break) |
 | [0889-buddy-strings](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0889-buddy-strings) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0229-majority-element-ii) |
 | [0889-buddy-strings](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0889-buddy-strings) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1207-delete-nodes-and-return-forest](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0229-majority-element-ii) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0948-sort-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/2163-kth-distinct-string-in-an-array) |
