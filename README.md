@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0226-invert-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0543-diameter-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1207-delete-nodes-and-return-forest) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0139-word-break) |
+| [0386-lexicographical-numbers](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0386-lexicographical-numbers) |
 ## Memoization
 |  |
 | ------- |
