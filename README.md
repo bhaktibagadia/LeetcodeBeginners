@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0053-maximum-subarray) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0494-target-sum) |
 ## Trie
