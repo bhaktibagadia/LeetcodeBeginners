@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0494-target-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0624-maximum-distance-in-arrays) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0890-lemonade-change](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0948-sort-an-array) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0396-rotate-function) |
 | [0494-target-sum](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0494-target-sum) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1511-count-number-of-teams](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1511-count-number-of-teams) |
 ## Linked List
 |  |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0494-target-sum) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Trie
 |  |
 | ------- |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0139-word-break) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -400,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0287-find-the-duplicate-number) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Combinatorics
@@ -414,4 +419,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
