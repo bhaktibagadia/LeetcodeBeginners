@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0543-diameter-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0813-all-paths-from-source-to-target](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0813-all-paths-from-source-to-target) |
 | [1207-delete-nodes-and-return-forest](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0322-coin-change) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0813-all-paths-from-source-to-target](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0813-all-paths-from-source-to-target) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1484-linked-list-in-binary-tree](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1484-linked-list-in-binary-tree) |
 ## Dynamic Programming
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0813-all-paths-from-source-to-target](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0813-all-paths-from-source-to-target) |
 ## Trie
 |  |
 | ------- |
@@ -423,4 +426,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Graph
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0813-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
