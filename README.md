@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0396-rotate-function) |
 | [0455-assign-cookies](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0494-target-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0624-maximum-distance-in-arrays) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0890-lemonade-change](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0890-lemonade-change) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0229-majority-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0560-subarray-sum-equals-k) |
 | [0889-buddy-strings](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1207-delete-nodes-and-return-forest](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1207-delete-nodes-and-return-forest) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0560-subarray-sum-equals-k) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Bitmask
 |  |
