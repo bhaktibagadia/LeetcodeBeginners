@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0890-lemonade-change](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0948-sort-an-array) |
+| [1138-grumpy-bookstore-owner](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1138-grumpy-bookstore-owner) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1207-delete-nodes-and-return-forest](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1207-delete-nodes-and-return-forest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -433,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0813-all-paths-from-source-to-target](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0813-all-paths-from-source-to-target) |
+## Sliding Window
+|  |
+| ------- |
+| [1138-grumpy-bookstore-owner](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1138-grumpy-bookstore-owner) |
 <!---LeetCode Topics End-->
