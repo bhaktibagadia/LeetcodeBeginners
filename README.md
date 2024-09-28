@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0624-maximum-distance-in-arrays) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0859-design-circular-deque](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0948-sort-an-array) |
 | [1138-grumpy-bookstore-owner](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1138-grumpy-bookstore-owner) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0908-middle-of-the-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1484-linked-list-in-binary-tree) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0859-design-circular-deque) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Prefix Sum
 |  |
@@ -438,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1138-grumpy-bookstore-owner) |
+## Design
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
