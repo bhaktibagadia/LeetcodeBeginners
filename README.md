@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0049-group-anagrams) |
 | [0087-scramble-string](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0087-scramble-string) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0386-lexicographical-numbers) |
 ## Memoization
