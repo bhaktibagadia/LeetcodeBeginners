@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0049-group-anagrams) |
 | [0087-scramble-string](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0087-scramble-string) |
 | [0139-word-break](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0139-word-break) |
+| [0151-reverse-words-in-a-string](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0151-reverse-words-in-a-string) |
 | [0889-buddy-strings](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0142-linked-list-cycle-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0287-find-the-duplicate-number) |
