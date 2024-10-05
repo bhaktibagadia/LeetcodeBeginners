@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0624-maximum-distance-in-arrays) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0859-design-circular-deque](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0859-design-circular-deque) |
