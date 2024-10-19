@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-buddy-strings](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0234-palindrome-linked-list) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Union Find
 |  |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/0289-game-of-life) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/bhaktibagadia/LeetcodeBeginners/tree/master/2076-sum-of-digits-of-string-after-convert) |
